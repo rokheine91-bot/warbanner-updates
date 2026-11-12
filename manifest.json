@@ -1,0 +1,18 @@
+{
+ "latest": "0.3.0",
+ "notes": "Warbanner 0.3.0 - Realistic soldiers (proof of concept).\nThe soldiers are now motion-capture-ready Mixamo men-at-arms in great helms and tabards (Castle Guard), animated on their own skeleton with all the Mixamo moves; the tabards take the team colour. The previous Quaternius soldiers can be switched back.\nIn a melee the regiments no longer wheel round each other or walk their men backwards: the front holds and the men fight along it, stepping round less.",
+ "files": [
+  {
+   "name": "Warbanner-game.zip",
+   "size": 204699049,
+   "sha256": "ee868b8329fb3cd100cc77bc0adc39a0528d843a8609f52b408bbec863faada4",
+   "url": "https://raw.githubusercontent.com/rokheine91-bot/warbanner-updates/main/files/0.3.0/Warbanner-game.zip",
+   "parts": [
+    "https://raw.githubusercontent.com/rokheine91-bot/warbanner-updates/main/files/0.3.0/Warbanner-game.zip.part00",
+    "https://raw.githubusercontent.com/rokheine91-bot/warbanner-updates/main/files/0.3.0/Warbanner-game.zip.part01",
+    "https://raw.githubusercontent.com/rokheine91-bot/warbanner-updates/main/files/0.3.0/Warbanner-game.zip.part02"
+   ]
+  }
+ ],
+ "sig": "f0GTyu+zuKlaVb5MW6XNSiN3FAmKXN/30xaCSJ3C+3NGQdPZT8ud7/vk/mwQD7GlaGyXX0oixouO5NOmi606AQ=="
+}
