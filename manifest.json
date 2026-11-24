@@ -1,0 +1,18 @@
+{
+    "latest":  "0.4.0",
+    "notes":  "New units, charges that hit, fatigue, living ranks\n- New unit: Spearmen. Longer reach (they strike first and keep swordsmen at spear\u0027s length), four different thrusts, spears held upright at rest. Braced spears stop a frontal charge dead: the chargers are thrown back and often hurt. Weaker in a long melee.\n- New unit: Heavy Infantry. Two-handed greatswords, no shield, heavy armour: the hardest-hitting foot soldiers, slower and easier to hit back.\n- Each army now fields spearmen, two regiments of swordsmen and heavy infantry.\n- Swordsmen have more blows (an inward cut and a slash combo).\n- Charges hit hard: the front of the charged line is driven back, some men are bowled over, and the charger\u0027s blow follows at once. Heavier and fresher men hit harder.\n- Fatigue (Shogun 2): running tires a regiment in about 80 s and fighting in about 3 minutes; resting recovers. Tired men move slower, hit and guard worse, and charge softer. Shown on the regiment cards (Fresh, Winded, Tired, Exhausted).\n- Living ranks: men waiting behind the fight now and then shout or raise their weapon, and the whole regiment cheers when an enemy unit nearby breaks.\n- Right-clicking an enemy inside a melee now orders an attack even when one of your own men stands closer.",
+    "files":  [
+                  {
+                      "name":  "Warbanner-game.zip",
+                      "size":  216005123,
+                      "sha256":  "594c3fbdba40ed1dcc6f886b4081cbf4cdb4d595fd12f52b68ec0d13bf3c13cb",
+                      "url":  "https://raw.githubusercontent.com/rokheine91-bot/warbanner-updates/main/files/0.4.0/Warbanner-game.zip",
+                      "parts":  [
+                                    "https://raw.githubusercontent.com/rokheine91-bot/warbanner-updates/main/files/0.4.0/Warbanner-game.zip.part00",
+                                    "https://raw.githubusercontent.com/rokheine91-bot/warbanner-updates/main/files/0.4.0/Warbanner-game.zip.part01",
+                                    "https://raw.githubusercontent.com/rokheine91-bot/warbanner-updates/main/files/0.4.0/Warbanner-game.zip.part02"
+                                ]
+                  }
+              ],
+    "sig":  "OT5LmrDdlS6khethCIUSZxaBWQsOzplXcPi8lO+3MOWa7//cfIuzT5M2ZOqKCV1R5G4WxvgZeWCSXlY8AidxDA=="
+}
